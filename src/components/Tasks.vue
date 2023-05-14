@@ -25,4 +25,8 @@
     text-decoration: line-through;
   }
 
+  label {
+    cursor: pointer;
+  }
+
 </style>
